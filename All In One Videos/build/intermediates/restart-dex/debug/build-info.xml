@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="7"
+    timestamp="9566212937126" >
+
+    <task
+        name="javac"
+        duration="513" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1028" />
+    <task
+        name="verifier"
+        duration="189" />
+
+    <artifact
+        location="/Users/ashok/Desktop/All In One Video/Android Code/All In One Videos/build/outputs/apk/All In One Videos-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="9566212937126" >
+        <artifact
+            location="/Users/ashok/Desktop/All In One Video/Android Code/All In One Videos/build/outputs/apk/All In One Videos-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

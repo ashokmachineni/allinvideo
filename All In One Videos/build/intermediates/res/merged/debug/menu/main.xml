@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- About-->
+    <item android:id="@+id/menu_about"
+          android:icon="@drawable/about"
+          android:title="@string/menu_about"
+          android:showAsAction="always"/>
+    
+    <item
+        android:id="@+id/menu_overflow"
+        android:icon="@drawable/abs__ic_menu_moreoverflow_normal_holo_dark"
+        android:showAsAction="always"
+        android:title="">
+        
+        <menu>
+        
+		         <!--Rate App-->
+		    <item android:id="@+id/menu_rateapp"
+		          android:icon="@drawable/rate"
+		          android:title="@string/menu_rateapp"
+		          android:showAsAction="ifRoom|withText"/>
+		    
+		    <!-- More App -->
+		    <item android:id="@+id/menu_moreapp"
+		          android:icon="@drawable/more"
+		          android:title="@string/menu_moreapp"
+		          android:showAsAction="ifRoom|withText"/>    
+        
+	  </menu>
+   </item>
+
+</menu>

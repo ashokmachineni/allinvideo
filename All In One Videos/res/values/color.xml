@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grid_back_color">#ffffff</color>
+    <color name="blue">#2c3d4f</color>
+    <color name="black">#ffffff</color>
+    <color name="text_pager_white">#bbbbbb</color>
+    <color name="list_second_white">#0677fc</color>
+    <color name="list_category_white">#aaafb4</color>
+    <color name="divider">#303030</color>
+    
+</resources>

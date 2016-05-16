@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/All In One Videos/All In One Videos.iml" filepath="$PROJECT_DIR$/All In One Videos/All In One Videos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/All In One Videos Admob/All In One Videos Admob.iml" filepath="$PROJECT_DIR$/All In One Videos Admob/All In One Videos Admob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/All In One Videos StartApp/All In One Videos StartApp.iml" filepath="$PROJECT_DIR$/All In One Videos StartApp/All In One Videos StartApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android Code.iml" filepath="$PROJECT_DIR$/Android Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actionbarsherlock/actionbarsherlock.iml" filepath="$PROJECT_DIR$/actionbarsherlock/actionbarsherlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/google-play-services_lib/google-play-services_lib.iml" filepath="$PROJECT_DIR$/google-play-services_lib/google-play-services_lib.iml" />
+    </modules>
+  </component>
+</project>

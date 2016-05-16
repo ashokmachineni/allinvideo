@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ashok/Desktop/All In One Video/Android Code/google-play-services_lib/build/intermediates/res/merged/androidTest/debug/color/common_signin_btn_text_dark.xml",
+        "source": "/Users/ashok/Desktop/All In One Video/Android Code/google-play-services_lib/build/intermediates/bundles/debug/res/color/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/ashok/Desktop/All In One Video/Android Code/google-play-services_lib/build/intermediates/res/merged/androidTest/debug/color/common_signin_btn_text_light.xml",
+        "source": "/Users/ashok/Desktop/All In One Video/Android Code/google-play-services_lib/build/intermediates/bundles/debug/res/color/common_signin_btn_text_light.xml"
+    }
+]

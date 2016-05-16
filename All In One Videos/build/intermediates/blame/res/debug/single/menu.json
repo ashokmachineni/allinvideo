@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ashok/Desktop/All In One Video/Android Code/All In One Videos/build/intermediates/res/merged/debug/menu/vimeo.xml",
+        "source": "/Users/ashok/Desktop/All In One Video/Android Code/All In One Videos/res/menu/vimeo.xml"
+    },
+    {
+        "merged": "/Users/ashok/Desktop/All In One Video/Android Code/All In One Videos/build/intermediates/res/merged/debug/menu/menu_search.xml",
+        "source": "/Users/ashok/Desktop/All In One Video/Android Code/All In One Videos/res/menu/menu_search.xml"
+    },
+    {
+        "merged": "/Users/ashok/Desktop/All In One Video/Android Code/All In One Videos/build/intermediates/res/merged/debug/menu/video_menu.xml",
+        "source": "/Users/ashok/Desktop/All In One Video/Android Code/All In One Videos/res/menu/video_menu.xml"
+    },
+    {
+        "merged": "/Users/ashok/Desktop/All In One Video/Android Code/All In One Videos/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/ashok/Desktop/All In One Video/Android Code/All In One Videos/res/menu/main.xml"
+    }
+]

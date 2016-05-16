@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ashok/Desktop/All In One Video/Android Code/All In One Videos/build/intermediates/exploded-aar/Android Code/actionbarsherlock/unspecified/jars/libs/android-support-v4.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="678fc92dc9bd9c29479350738297d3cf9ce89b39">
+        <dex dex="/Users/ashok/Desktop/All In One Video/Android Code/All In One Videos/build/intermediates/transforms/dex/debug/folders/1000/8/android-support-v4_1522c4c7d5e6103f53d4cb6b600b66ef48c6dd23/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ashok/Desktop/All In One Video/Android Code/All In One Videos/libs/android-support-v4.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="/Users/ashok/Desktop/All In One Video/Android Code/All In One Videos/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_4d1d9055d0ee34d9c147e17745ec5b44b4ecce95/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ashok/Desktop/All In One Video/Android Code/All In One Videos/libs/Parse-1.4.3.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="8daf146aea8cd5245bb90f802f2cd4b8dd855eca">
+        <dex dex="/Users/ashok/Desktop/All In One Video/Android Code/All In One Videos/build/intermediates/transforms/dex/debug/folders/1000/2/Parse-1.4.3_705a3374e84831aacdcd357f4f800b17ec072e5a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ashok/Desktop/All In One Video/Android Code/All In One Videos/libs/libGoogleAnalyticsServices.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e887c6c9b31b39a39b0eaba981448b78902ea813">
+        <dex dex="/Users/ashok/Desktop/All In One Video/Android Code/All In One Videos/build/intermediates/transforms/dex/debug/folders/1000/2/libGoogleAnalyticsServices_89ee8d6f24aaf415484be549b39c82e324242a5e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ashok/Desktop/All In One Video/Android Code/All In One Videos/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="29ccfbddf99584bddbaab62c0cf50dcd1c564e43">
+        <dex dex="/Users/ashok/Desktop/All In One Video/Android Code/All In One Videos/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_1a1a499637d3b928f02af61865efd53ee6a2b922/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ashok/Desktop/All In One Video/Android Code/All In One Videos/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="0e36b0dcaab650d27e0d8a3f6a5cc463a22b3567">
+        <dex dex="/Users/ashok/Desktop/All In One Video/Android Code/All In One Videos/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e1b47262a68d646687865e66798be4b4cb385cff/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ashok/Desktop/All In One Video/Android Code/All In One Videos/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="6e0be28d8ef77dbd5524c9d121ad57ad1310949e">
+        <dex dex="/Users/ashok/Desktop/All In One Video/Android Code/All In One Videos/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6ba71bbd5615b4785202a4a29040d4a33580a603/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ashok/Desktop/All In One Video/Android Code/All In One Videos/libs/StartAppInApp-3.1.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4c50fdd50140ff8a7af07e8fb3f9b5814dcf0f09">
+        <dex dex="/Users/ashok/Desktop/All In One Video/Android Code/All In One Videos/build/intermediates/transforms/dex/debug/folders/1000/2/StartAppInApp-3.1.0_9117049afd40878ecf424aba65e9967fe470b8a0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ashok/Desktop/All In One Video/Android Code/All In One Videos/build/intermediates/exploded-aar/Android Code/google-play-services_lib/unspecified/jars/libs/google-play-services.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="cdb1f2997a5284eb104136550085965ef1d744db">
+        <dex dex="/Users/ashok/Desktop/All In One Video/Android Code/All In One Videos/build/intermediates/transforms/dex/debug/folders/1000/8/google-play-services_bca2b63789bc1180bfd5f64ff4ee17e1ff869a4d/classes.dex" />
+    </item>
+
+</items>
